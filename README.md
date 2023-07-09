@@ -16,8 +16,6 @@ Chat bot made using HTML, CSS and JavaScript.
 [![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)]
 [![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]
 
-## 📌 Sneak Peek of Main Page:
-![mockup720](https://github.com/A-anand4866/ChatBot/blob/main/Screenshot%20(73).png)
 
 
 <h2>📬 Contact</h2>
